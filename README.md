@@ -1,2 +1,28 @@
 # fakaheda-blueforum
-UserCSS v modrém stylu korespondující s hlavním webem pro fórum technické podpory FakaHeda.eu pro rozšíření prohlížeče stylující stránky jako Stylus nebo Stylish 
+
+
+# FakaHeda.eu Fórum – Modrý styl (fakaheda-blueforum)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nejento/floatplane-dark?label=version)](https://github.com/nejento/fakaheda-blueforum/main/floatplane-dark.user.css)
+[![GitHub tag (latest by date)](https://img.shields.io/badge/install-UserCSS-blueviolet)](https://github.com/nejento/fakaheda-blueforum/main/floatplane-dark.user.css)
+
+UserCSS v modrém stylu korespondující s hlavním webem pro fórum technické podpory [FakaHeda.eu](https://forum.fakaheda.eu) pro rozšíření prohlížeče stylující stránky jako Stylus nebo Stylish 
+
+## Ukázka
+
+![Preview of dark Floatplane on video view](./images/logo.jpeg)
+![Preview of dark Floatplane on main view](./images/blue.jpeg)
+
+## Instalace
+
+1. Nainstalujte [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/) or [Cascadea for Safari](https://cascadea.app/).
+2. Nainstaluje [floatplane-dark.css](https://github.com/nejento/fakaheda-blueforum/main/floatplane-dark.user.css).
+
+## Přispívání
+
+Pokud chcete přispět do tohoto repozitáře, prosím…
+
+1. [![fork](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) Forkněte](https://github.com/StylishThemes/GitHub-Dark/fork) nebo [![cloud-download](https://user-images.githubusercontent.com/136959/42401932-9ee9cae0-813d-11e8-8691-16e29a85d3b9.png) stáhněte](https://github.com/StylishThemes/GitHub-Dark/archive/master.zip) tento repozitář.
+1. 👌 Vytvořte pull request s popisem změn!
+
+## FakaHeda.eu
+Nezapomeňte se podívat na [FakaHeda.eu](https://www.floatplane.com), pokud hledáte kvalitní herní hosting! 
