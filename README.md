@@ -2,7 +2,7 @@
 
 
 # FakaHeda.eu Fórum – Modrý styl (fakaheda-blueforum)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nejento/fakaheda-blueforum?label=version)](https://github.com/nejento/fakaheda-blueforum/main/fakaheda-blueforum.user.css)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nejento/fakaheda-blueforum?label=version)](https://raw.githubusercontent.com/nejento/fakaheda-blueforum/main/fakaheda-blueforum.user.css)
 [![GitHub tag (latest by date)](https://img.shields.io/badge/install-UserCSS-blueviolet)](https://raw.githubusercontent.com/nejento/fakaheda-blueforum/main/fakaheda-blueforum.user.css)
 
 UserCSS v modrém stylu korespondující s hlavním webem pro fórum technické podpory [FakaHeda.eu](https://forum.fakaheda.eu) pro rozšíření prohlížeče stylující stránky jako Stylus nebo Stylish 
