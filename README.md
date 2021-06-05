@@ -11,8 +11,8 @@ Temporary theme of the FakaHeda tech support Forum which is changes to look as t
 
 ## Ukázka
 
-![Preview of dark Floatplane on video view](./images/logo.jpeg)
-![Preview of dark Floatplane on main view](./images/blue.jpeg)
+![Preview of dark Floatplane on video view](./images/logo.jpg)
+![Preview of dark Floatplane on main view](./images/blue.jpg)
 
 ## Instalace
 
