@@ -7,6 +7,8 @@
 
 UserCSS v modrém stylu korespondující s hlavním webem pro fórum technické podpory [FakaHeda.eu](https://forum.fakaheda.eu) pro rozšíření prohlížeče stylující stránky jako Stylus nebo Stylish 
 
+Temporary theme of the FakaHeda tech support Forum which is changes to look as the main website together with the Control Panel. This theme's main color is blue so that it is different from the website and corresponds with the color of the logo.
+
 ## Ukázka
 
 ![Preview of dark Floatplane on video view](./images/logo.jpeg)
