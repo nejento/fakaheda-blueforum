@@ -15,7 +15,7 @@
         background-color:transparent;
     }
     body{
-        background:url(https://fhforum.nejento.eu/forumstyle/bg.png) repeat-x #000;
+        background:url(https://raw.githubusercontent.com/nejento/fakaheda-blueforum/main/images/bg.png) repeat-x #000;
         background-position-y:153px 
     }
     #wrap{
@@ -23,7 +23,7 @@
         border:0 
     }
     #header-subsilver{
-        background-image:url(https://fhforum.nejento.eu/forumstyle/header.png);
+        background-image:url(https://raw.githubusercontent.com/nejento/fakaheda-blueforum/main/images/header.png);
         background-repeat:repeat-x;
         border-bottom:1px solid transparent 
     }
@@ -47,7 +47,7 @@
         box-shadow:none 
     }
     .imageset.site_logo{
-        background-image:url(https://fhforum.nejento.eu/forumstyle/logo.png) 
+        background-image:url(https://raw.githubusercontent.com/nejento/fakaheda-blueforum/main/images/logo.png) 
     }
     .navbar{
         background:#383838;
@@ -65,7 +65,7 @@
         font-weight:300 
     }
     .navbar-top{
-        background-image:url(https://fhforum.nejento.eu/forumstyle/navbar.png);
+        background-image:url(https://raw.githubusercontent.com/nejento/fakaheda-blueforum/main/images/navbar.png);
         padding:0 25px;
         background-repeat:no-repeat 
     }
